@@ -2,9 +2,9 @@
 - 👀 I’m interested in C++,Pyhton,HTML,CSS,SQL
 - 🌱 I’m currently learning deep sql for data analytics 
 - 💞️ I’m looking to collaborate on data analytics job
-- 📫 How to reach me through my linkedin or via mmy instagram handle==
+- 📫 How to reach me through my linkedin or via mmy instagram handle
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: How much keys in the ios keyboard kindly read it and response back.
 
 <!---
 Anshulkoundal0101/Anshulkoundal0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
